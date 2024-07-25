@@ -1,6 +1,6 @@
 # Telegram Bot
 
-This project is a Telegram bot. It serves as a Telegram Interface for the vendors to see their active quotations, quote requests and payments. webSocket has been used to show real-time updates.
+This project is a Telegram bot. It serves as a Telegram Interface for the vendors to see their active quotations, quote requests and payments. WebSocket has been used to show real-time updates.
 
 ## Features
 
